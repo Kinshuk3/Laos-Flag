@@ -13,3 +13,6 @@ The project includes the following files:
 ## Preview
 
 <img src="goal.png" alt="Laos Flag" width="300">
+
+## Live Demo
+Check out the live demo of Laos Flag [here](https://glowing-stardust-723c2b.netlify.app/).
